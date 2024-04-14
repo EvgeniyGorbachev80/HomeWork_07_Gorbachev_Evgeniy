@@ -1,0 +1,12 @@
+апр. 07, 2024 3:45:37 PM org.Gorbachev.calculator.FileLogger log
+INFO: Значение калькулятора 1.0 + 1.0i. Начало вызова метода sum с параметром 2.0 + 2.0i
+апр. 07, 2024 3:45:37 PM org.Gorbachev.calculator.FileLogger log
+INFO: Вызов метода sum произошел.
+апр. 07, 2024 3:45:42 PM org.Gorbachev.calculator.FileLogger log
+INFO: Получение результата 3.0 + 3.0i
+апр. 07, 2024 3:46:50 PM org.Gorbachev.calculator.FileLogger log
+INFO: Значение калькулятора 3.0 + 3.0i. Начало вызова метода minus с параметром 2.0 + 2.0i
+апр. 07, 2024 3:46:50 PM org.Gorbachev.calculator.FileLogger log
+INFO: Вызов метода minus произошел.
+апр. 07, 2024 3:46:52 PM org.Gorbachev.calculator.FileLogger log
+INFO: Получение результата 1.0 + 1.0i
